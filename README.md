@@ -11,7 +11,7 @@ we need two functions : BSM, and IV
 
 #### BSM
 
-<img src="https://tva1.sinaimg.cn/large/006y8mN6gy1g85d5sj45xj30ti0fq75r.jpg" width = "55%" />
+<img src="https://tva1.sinaimg.cn/large/006y8mN6gy1g85derir5uj30x20lggnb.jpg" width = "55%" />
 
 - s - Current price of the underlying
 - k - Strike price
